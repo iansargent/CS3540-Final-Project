@@ -1,7 +1,7 @@
 # To do list
 
-- [ ] create a random forest model for the data
-- [ ] create a svm model for the data
+- [X] create a random forest model for the data
+- [X] create a svm model for the data
 - [ ] do the project proposal video
 
 ## Everything below this is to do after project proposal (next steps)
